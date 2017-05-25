@@ -1,0 +1,48 @@
+body {
+  min-height: 2000px;
+  font-family: monospace;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.logo {
+	width: 60px;
+	margin: -5px 20px 0 0;
+}
+
+.monospace {
+	font-family: monospace;
+}
+
+.front-logo {
+	max-width: 500px;
+	/* margin: 15px; */
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	background-color: #e3f0ff;
+	color: cornflowerblue;
+}
+
+.slate {
+	background-color: #e3f0ff;
+	padding: 30px;
+	text-align: center;
+	height: 160px;
+	border: 1px solid dodgerblue;
+}
+
+.homepage-heading {
+	text-align: center; 
+	margin: 100px auto;
+}

@@ -140,7 +140,7 @@
           <div class="col-md-12">
               <h1 class='homepage-heading'>Contact</h1>
               <p style="text-align: center; margin-top: -70px">
-                If you are the smartest kid in the town, and if you are looking for flexible working options, reach out to us at 
+                If you are the smartest kid in the town, and if you are looking for flexible working options, reach out to us: 
                 <br>
                   admin [at] differentHalf [dot] com
               </p>
